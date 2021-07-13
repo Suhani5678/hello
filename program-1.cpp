@@ -3,7 +3,7 @@ using namspace std;
 
 int main(){
     char op;
-    float a, b ;
+    double a, b ;
     
     cout << "Enter operator: +, -, *, /:";
     cin >> op;
