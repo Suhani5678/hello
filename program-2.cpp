@@ -20,7 +20,7 @@ int digSum(int n)
 
 int main()
 {
-    int n = 1234;
+    int n = 1357;
     cout << digSum(n);
     return 0;
 }
